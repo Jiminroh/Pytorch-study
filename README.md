@@ -4,9 +4,9 @@
 
 ---
 ## 학습 자료
-- github:  [link](https://github.com/deeplearningzerotoall/PyTorch)
-- lecture: [link](https://www.boostcourse.org/ai214)
-- slide: [link](http://bit.ly/2VrZcWM)
+- github: 깃허브([https://github.com/deeplearningzerotoall/PyTorch](https://github.com/deeplearningzerotoall/PyTorch))
+- lecture: 모두를 위한 딥러닝 시즌2([https://www.boostcourse.org/ai214](https://www.boostcourse.org/ai214))
+- slide: 강의 슬라이드([http://bit.ly/2VrZcWM](http://bit.ly/2VrZcWM))
 
 ---
 ## 목차
