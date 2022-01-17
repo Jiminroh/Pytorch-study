@@ -12,7 +12,7 @@
 ## 목차
 ||제목|학습자료|github|
 |---|---|---|---|
-|1화차|파이토치 튜토리얼(기본 익히기)|[pytorch tutorial](https://tutorials.pytorch.kr/)|
+|1화차|파이토치 튜토리얼(기본 익히기)|[pytorch tutorial](https://tutorials.pytorch.kr/)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/1st)
 |2화차|Mchine Learning & Pytorch Basic|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
 |3화차|신경망(NEURAL NETWORK)|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
 |4화차|Convolutional Neural Network|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
