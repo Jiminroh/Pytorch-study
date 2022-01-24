@@ -13,14 +13,14 @@
 ||제목|학습자료|github|
 |---|---|---|---|
 |1화차|파이토치 튜토리얼(기본 익히기)|[pytorch tutorial](https://tutorials.pytorch.kr/)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/1st)
-|2화차|Mchine Learning & Pytorch Basic|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
-|3화차|신경망(NEURAL NETWORK)|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
-|4화차|Convolutional Neural Network|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
-|5화차|Recurrent Neural Network|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|
-|6화차|전이 학습(TRANSFER LEARNING)|[pytorch tutorial](https://tutorials.pytorch.kr/)|
-|7화차|오토인코더와 적대적 생성 신경망|[pytorch tutorial](https://tutorials.pytorch.kr/)|
-|8화차|..|..|
-|9화차|..|..|
+|1화차|lab-01 ~ lab-03|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/1st)
+|2화차|lab-04 ~ lab-06|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+|3화차|lab-07 ~ lab-08-4|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+|4화차|lab-09, 프로젝트|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+|5화차|lab-10-0 ~lab 10-4|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+|6화차|lab-10-5 ~ lab-10-7|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+|7화차|lab-11|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+
 
 ---
 ## 진행 과정

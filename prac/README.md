@@ -11,4 +11,6 @@
 |1st|pytorch_tutorial_6|TORCH.AUTOGRAD를 사용한 자동 미분
 |1st|pytorch_tutorial_7|모델 매개변수 최적화하기
 |1st|pytorch_tutorial_8|모델 저장하고 불러오기
-|1st|lab 01-1|Tensor Manipulation 1,2
+|1st|lab 01|Tensor Manipulation 1,2
+|1st|lab 02|Linear Regression
+|1st|lab 03|Minimizing cost
