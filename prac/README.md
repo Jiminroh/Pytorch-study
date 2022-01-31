@@ -14,3 +14,8 @@
 |1st|lab 01|Tensor Manipulation 1,2
 |1st|lab 02|Linear Regression
 |1st|lab 03|Minimizing cost
+|2nd|lab 04-1|Multivariate Linear classification
+|2nd|lab 04-2|Load data
+|2nd|lab 05|Logistic Classification
+|2nd|lab 06-1|Softmax Classification 
+|2nd|lab 06-2|Fancy Softmax Classification 
