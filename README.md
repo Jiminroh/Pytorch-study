@@ -12,14 +12,14 @@
 ## 목차
 ||제목|학습자료|github|
 |---|---|---|---|
-|1화차|파이토치 튜토리얼(기본 익히기)|[pytorch tutorial](https://tutorials.pytorch.kr/)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/1st)
+|0화차|파이토치 튜토리얼(기본 익히기)|[pytorch tutorial](https://tutorials.pytorch.kr/)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/1st)
 |1화차|lab-01 ~ lab-03|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/1st)
 |2화차|lab-04 ~ lab-06|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/2nd)
-|3화차|lab-07 ~ lab-08-4|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
-|4화차|lab-09, 프로젝트|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
-|5화차|lab-10-0 ~lab 10-4|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
-|6화차|lab-10-5 ~ lab-10-7|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
-|7화차|lab-11|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link]()
+|3화차|lab-07 ~ lab-08-2|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/3th)
+|4화차|lab-09 ~ lab-09-4|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/4th)
+|5화차|프로젝트, lab-10-2 ~ lab 10-3|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/5th)
+|6화차|lab-10-4 ~ lab-10-5|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/6th)
+|7화차|프로젝트, lab-10-6 ~ lab-11-3|[모두를 위한 딥러닝 시즌2](https://www.boostcourse.org/ai214)|[link](https://github.com/Rogan-J/Pytorch/tree/main/prac/7th)
 
 
 ---
